@@ -1,5 +1,0 @@
-No External Library Used
-
-So no need to install any other Library
-
-Read "README.md" carefully.
